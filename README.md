@@ -1,2 +1,2 @@
 # CV
-# https://freshaku.github.io/CV/
+# https://freshaku.github.io/My-cv/
